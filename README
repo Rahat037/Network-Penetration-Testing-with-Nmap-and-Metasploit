@@ -1,0 +1,22 @@
+# Network Penetration Testing with Nmap and Metasploit
+
+## Duration
+July 2023 – August 2023
+
+## Project Overview
+This project demonstrates basic network penetration testing techniques using Nmap and Metasploit. The objective is to identify open ports, services, and vulnerabilities in a target system and analyze possible security risks.
+
+## Tools Used
+- Nmap
+- Metasploit Framework
+- Kali Linux
+
+## Objectives
+- Discover live hosts and open ports
+- Identify running services and versions
+- Detect potential vulnerabilities
+- Exploit selected vulnerabilities for testing
+- Document findings and security recommendations
+
+## Disclaimer
+This project is created for educational purposes only. All testing was performed in a controlled lab environment.

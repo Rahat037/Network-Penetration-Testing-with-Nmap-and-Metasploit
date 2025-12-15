@@ -1,0 +1,8 @@
+Command Used:
+nmap -sV 192.168.1.10
+
+Purpose:
+To identify running services and their versions.
+
+Result:
+Detected services including SSH, HTTP, and FTP with version details.

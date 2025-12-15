@@ -1,0 +1,8 @@
+Payload Used:
+cmd/unix/interact
+
+Purpose:
+To verify exploit success and access level.
+
+Note:
+Used only for testing and learning purposes.

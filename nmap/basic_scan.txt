@@ -1,0 +1,8 @@
+Command Used:
+nmap 192.168.1.0/24
+
+Purpose:
+To discover live hosts and open ports within the network.
+
+Result:
+Identified multiple active hosts with common open ports such as 22, 80, and 443.
